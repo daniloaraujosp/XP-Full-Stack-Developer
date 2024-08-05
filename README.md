@@ -6,7 +6,7 @@
 
 ### Detalhes do bootcamp
 
-Formação Desenvolvedor Full Stack para riação de aplicações web de ponta a ponta com .NET e React da DIO.me - Digital Inovation One, em parceria com XP Inc.
+Formação Desenvolvedor Full Stack para criação de aplicações web de ponta a ponta com .NET e React da DIO.me - Digital Inovation One, em parceria com XP Inc.
 
 > [!IMPORTANT]
 > Repositório com todos os exercícios e desafios de projetos realizados durante o Bootcamp. 

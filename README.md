@@ -25,4 +25,4 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | Conceitos Básicos de React | ❕ |
 | Gerenciando Componentes React | ❕ |
 | Criando Front-End com Next e TypeScript | ❕ |
-| Introcução a Clound com Azure | ❕ |
+| Introdução a Clound com Azure | ❕ |

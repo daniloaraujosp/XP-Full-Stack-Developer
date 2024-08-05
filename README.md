@@ -15,8 +15,8 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 |:----------|:--------------: |
 | <em>Confira abaixo a minha evolução no Bootcamp:</em> | |
 | Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ |
-| Sintaxe Básica com .NET C# | ✔️ |
-| Dados e Listas com .NET C# | 🚀 | 
+| Sintaxe Básica com .NET C# | 🚀 |
+| Dados e Listas com .NET C# | ❕ | 
 | Programação Orientada a Objetos com C# | ❕ |
 | Introdução a Banco de Dados | ❕ |
 | Construindo APIs com .NET C# | ❕ |

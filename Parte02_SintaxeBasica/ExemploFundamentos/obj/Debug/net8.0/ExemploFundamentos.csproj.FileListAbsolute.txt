@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Parte02_SintaxeBasica\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll

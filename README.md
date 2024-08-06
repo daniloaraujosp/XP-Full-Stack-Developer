@@ -15,8 +15,8 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 |:----------|:--------------: |
 | <em>Confira abaixo a minha evolução no Bootcamp:</em> | |
 | Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ |
-| Sintaxe Básica com .NET C# | ✔️ |
-| Dados e Listas com .NET C# | 🚀 | 
+| Sintaxe Básica com .NET C# | 🚀 |
+| Dados e Listas com .NET C# | ❕ | 
 | Programação Orientada a Objetos com C# | ❕ |
 | Introdução a Banco de Dados | ❕ |
 | Construindo APIs com .NET C# | ❕ |
@@ -26,3 +26,7 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | Gerenciando Componentes React | ❕ |
 | Criando Front-End com Next e TypeScript | ❕ |
 | Introdução a Clound com Azure | ❕ |
+
+> [!NOTE]  
+> Publicação no Fórum DIO.me -  
+<a href="https://web.dio.me/topics/crie-seu-repositorio-geral-e-personalize-o-readmemd?back=%2Ftrack%2Fcoding-the-future-xp-full-stack-developer&order=undefined&page=1&search=&tab=forum&track_id=a932e25b-41f5-4132-9cc9-ae47fc10f2cb">https://web.dio.me/topics/crie-seu-repositorio-geral-e-personalize-o-readmemd</a>

@@ -11,7 +11,8 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 > [!IMPORTANT]
 > Repositório com todos os exercícios e desafios de projetos realizados durante o Bootcamp. 
 
-> Confira abaixo a evolução do Bootcamp. É possível acompanhar o Roadmap detalhado na plataforma Clickup  <a href="https://app.clickup.com/9011369128/v/li/901105137369">neste link</a>
+> Confira abaixo a evolução do Bootcamp. 
+> É possível acompanhar o Roadmap detalhado na plataforma Clickup  <a href="https://sharing.clickup.com/9011369128/g/h/8chx558-1091/3d770103822238b" target="_blank">neste link</a>.
 
 | Atividades | |
 |:----------|:--------------: |

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ExemploFundamentos.PessoaCopia
 {
-    public class Pessoa
+    /*public class Pessoa
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
@@ -14,5 +14,5 @@ namespace ExemploFundamentos.PessoaCopia
         {
             Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
         }
-    }
+    }*/
 }

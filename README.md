@@ -29,7 +29,3 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | Gerenciando Componentes React | ❕ |
 | Criando Front-End com Next e TypeScript | ❕ |
 | Introdução a Clound com Azure | ❕ |
-
-> [!NOTE]  
-> Publicação no Fórum DIO.me -  
-<a href="https://web.dio.me/topics/crie-seu-repositorio-geral-e-personalize-o-readmemd?back=%2Ftrack%2Fcoding-the-future-xp-full-stack-developer&order=undefined&page=1&search=&tab=forum&track_id=a932e25b-41f5-4132-9cc9-ae47fc10f2cb">https://web.dio.me/topics/crie-seu-repositorio-geral-e-personalize-o-readmemd</a>

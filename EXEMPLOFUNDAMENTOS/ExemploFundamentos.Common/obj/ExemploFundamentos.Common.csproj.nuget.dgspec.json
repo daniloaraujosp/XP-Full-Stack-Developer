@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
+    "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config"

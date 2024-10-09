@@ -14,11 +14,11 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 > Confira abaixo a evolução do Bootcamp. 
 > É possível acompanhar o Roadmap detalhado na plataforma Clickup [neste link](https://sharing.clickup.com/9011369128/g/h/8chx558-1091/3d770103822238b).
 
-| Atividades | | Desafios Realizados |
-|:----------|:--------------: |:--------------: |
-| <em>Confira abaixo a minha evolução no Bootcamp:</em> | | |
-| Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ | |
-| Sintaxe Básica com .NET C# | ✔️ | |
+| Atividades | Status | Desafios Realizados (Repositórios) |
+|:----------|:--------------: |:-------------- |
+| <em>Confira abaixo a minha evolução no Bootcamp:</em> | 
+| Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ | [Contribuir em um Projeto Open Source no GitHub](https://github.com/daniloaraujosp/dio-lab-open-source)|
+| Sintaxe Básica com .NET C# | ✔️ | [Sistema para um Estacionamento com C#](https://github.com/daniloaraujosp/trilha-net-fundamentos-desafio) |
 | Dados e Listas com .NET C# | 🚀 |  |
 | Programação Orientada a Objetos com C# | ❕ | |
 | Introdução a Banco de Dados | ❕ | |

@@ -14,18 +14,18 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 > Confira abaixo a evolução do Bootcamp. 
 > É possível acompanhar o Roadmap detalhado na plataforma Clickup [neste link](https://sharing.clickup.com/9011369128/g/h/8chx558-1091/3d770103822238b).
 
-| Atividades | |
-|:----------|:--------------: |
-| <em>Confira abaixo a minha evolução no Bootcamp:</em> | |
-| Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ |
-| Sintaxe Básica com .NET C# | 🚀 |
-| Dados e Listas com .NET C# | ❕ | 
-| Programação Orientada a Objetos com C# | ❕ |
-| Introdução a Banco de Dados | ❕ |
-| Construindo APIs com .NET C# | ❕ |
-| Trabalhando com Desenvolvimento Orientado a Testes | ❕ |
-| Introdução a Front-End com React | ❕ |
-| Conceitos Básicos de React | ❕ |
-| Gerenciando Componentes React | ❕ |
-| Criando Front-End com Next e TypeScript | ❕ |
-| Introdução a Clound com Azure | ❕ |
+| Atividades | | Desafios Realizados |
+|:----------|:--------------: |:--------------: |
+| <em>Confira abaixo a minha evolução no Bootcamp:</em> | | |
+| Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ | |
+| Sintaxe Básica com .NET C# | ✔️ | |
+| Dados e Listas com .NET C# | 🚀 |  |
+| Programação Orientada a Objetos com C# | ❕ | |
+| Introdução a Banco de Dados | ❕ | |
+| Construindo APIs com .NET C# | ❕ | |
+| Trabalhando com Desenvolvimento Orientado a Testes | ❕ | |
+| Introdução a Front-End com React | ❕ | |
+| Conceitos Básicos de React | ❕ | |
+| Gerenciando Componentes React | ❕ | |
+| Criando Front-End com Next e TypeScript | ❕ | |
+| Introdução a Clound com Azure | ❕ | |

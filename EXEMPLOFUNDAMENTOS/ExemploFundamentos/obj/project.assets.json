@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "c:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\Users\\danil\\OneDrive\\Documents\\_DIO\\XP-Full-Stack-Developer\\EXEMPLOFUNDAMENTOS\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }

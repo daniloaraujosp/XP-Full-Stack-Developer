@@ -4,6 +4,8 @@
     <span> Bootcamp XP Inc. - Full Stack Developer</span>
 </h1>
 
+![image](https://github.com/user-attachments/assets/b7af2b37-ea00-42d4-a2b1-6c49804de835)
+
 ### Detalhes do bootcamp
 
 Formação Desenvolvedor Full Stack para criação de aplicações web de ponta a ponta com .NET e React da DIO.me - Digital Inovation One, em parceria com XP Inc.

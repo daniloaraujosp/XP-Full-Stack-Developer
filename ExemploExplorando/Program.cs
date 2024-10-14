@@ -1,6 +1,56 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
+try {
+
+    string[] linhas = File.ReadAllLines("Arquivos/d/arquivo_Leitura.txt");
+
+    foreach(string linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
+
+} 
+catch(FileNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreuum erro na leitura do arquivo. Arquivo não encontrado. {ex.Message}");
+}
+catch(DirectoryNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreuum erro na leitura do arquivo. Caminho da pasta não encontrado. {ex.Message}");
+}
+catch(Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+}
+
+Console.WriteLine("Chegou até aqui");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 //DateTime data = DateTime.Now;
 
 string dataString = "2022-04-170 18:00";
@@ -29,7 +79,7 @@ else
 //Console.WriteLine(data.ToShortTimeString()); // somente a hora
 
 //Console.WriteLine(data);
-
+*/
 
 
 

@@ -3,14 +3,25 @@ using System.Globalization;
 
 new ExemploExcecao().Metodo1();
 
+Queue<int> fila = new Queue<int>();
 
+fila.Enqueue(2);
+fila.Enqueue(4);
+fila.Enqueue(6);
+fila.Enqueue(8);
 
+foreach (var item in fila)
+{
+    Console.WriteLine(item);    
+}
 
+Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}"); // vai remover sempre o primeiro elemeto da fila
+fila.Enqueue(10);
 
-
-
-
-
+foreach (var item in fila)
+{
+    Console.WriteLine(item);    
+}
 
 
 

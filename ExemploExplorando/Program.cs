@@ -1,6 +1,112 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
+Dictionary<string, string> estados = new Dictionary<string,string>();
+
+
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+
+Console.WriteLine(estados["MG"]); // acessar valor do dictionary
+
+
+
+/*
+foreach(var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+Console.WriteLine("-------------");
+estados.Remove("BA");
+estados["SP"] = "São Paulo - valor alterado";
+
+foreach(var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+*/
+
+
+
+
+/*
+string chave = "BA2";
+Console.WriteLine($"Verificando o elemento: {chave}");
+
+if (estados.ContainsKey(chave)) 
+{
+    Console.WriteLine($"Valor existente: {chave}");
+}
+else
+{
+    Console.WriteLine($"Valor não existente. É seguro adicionar a chave");
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Stack<int> pilha = new Stack<int>();
+
+pilha.Push(4);
+pilha.Push(6);
+pilha.Push(8);
+pilha.Push(10);
+
+foreach(int item in pilha)
+{
+    Console.WriteLine(item);
+}
+
+Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
+
+pilha.Push(20);
+
+foreach(int item in pilha)
+{
+    Console.WriteLine(item);
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 new ExemploExcecao().Metodo1();
 
 Queue<int> fila = new Queue<int>();
@@ -23,7 +129,7 @@ foreach (var item in fila)
     Console.WriteLine(item);    
 }
 
-
+*/
 
 
 

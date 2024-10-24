@@ -1,6 +1,44 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
+(int, string, string, decimal) tupla = (1, "Danilo", "Araujo", 1.76M);
+
+// ValueTuple<int, string, string, decimal> outroExemploTupla = (1, "Danilo", "Araujo", 1.76M);
+// var outroExemploTuplaCreate = Tuple.Create(1, "Danilo", "Araujo", 1.76M)
+
+Console.WriteLine($"Id: {tupla.Id}");
+Console.WriteLine($"Nome: {tupla.Nome}");
+Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
+Console.WriteLine($"Altura: {tupla.Altura}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+------------------------------------
 Dictionary<string, string> estados = new Dictionary<string,string>();
 
 
@@ -9,7 +47,6 @@ estados.Add("BA", "Bahia");
 estados.Add("MG", "Minas Gerais");
 
 Console.WriteLine(estados["MG"]); // acessar valor do dictionary
-
 
 
 /*
@@ -27,8 +64,6 @@ foreach(var item in estados)
     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
 */
-
-
 
 
 /*

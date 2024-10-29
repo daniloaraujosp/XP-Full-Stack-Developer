@@ -1,6 +1,114 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
+int numero = 21;
+bool ehPar = false;
+
+//IF Ternário
+ehPar = numero % 2 == 0;
+Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
+
+/*
+if(numero % 2 == 0)
+{
+    Console.WriteLine($"O número {numero} é par");
+}
+else
+{
+    Console.WriteLine($"O número {numero} é ímpar");
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Pessoa p1 = new Pessoa("Danilo", "Araujo");
+
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"{nome} {sobrenome}");
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+LeituraArquivo arquivo = new LeituraArquivo();
+
+var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+
+if (sucesso)
+{
+    //Console.WriteLine("Quantidade linhas do arquivo:" + quantidadeLinhas);
+    foreach(string linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else
+{
+    Console.WriteLine("Não foi possível ler o arquivo");
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 (int, string, string, decimal) tupla = (1, "Danilo", "Araujo", 1.76M);
 
 // ValueTuple<int, string, string, decimal> outroExemploTupla = (1, "Danilo", "Araujo", 1.76M);
@@ -12,7 +120,7 @@ Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
 Console.WriteLine($"Altura: {tupla.Altura}");
 
 
-
+*/
 
 
 

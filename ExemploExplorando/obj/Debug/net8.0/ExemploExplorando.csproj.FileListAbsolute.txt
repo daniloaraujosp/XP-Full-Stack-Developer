@@ -13,3 +13,6 @@ C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando
 C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
 C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date

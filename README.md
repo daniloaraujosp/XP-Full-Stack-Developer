@@ -21,8 +21,8 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | <em>Confira abaixo a minha evolução no Bootcamp:</em> | 
 | Introdução ao Ambiente .NET e Projetos Colaborativos| ✔️ | [Contribuir em um Projeto Open Source no GitHub](https://github.com/daniloaraujosp/dio-lab-open-source)|
 | Sintaxe Básica com .NET C# | ✔️ | [Sistema para um Estacionamento com C#](https://github.com/daniloaraujosp/trilha-net-fundamentos-desafio) |
-| Dados e Listas com .NET C# | 🚀 |  |
-| Programação Orientada a Objetos com C# | ❕ | |
+| Dados e Listas com .NET C# | ✔️ | [Sistena de Hospedagem](https://github.com/daniloaraujosp/trilha-net-explorando-desafio) |
+| Programação Orientada a Objetos com C# | 🚀 | |
 | Introdução a Banco de Dados | ❕ | |
 | Construindo APIs com .NET C# | ❕ | |
 | Trabalhando com Desenvolvimento Orientado a Testes | ❕ | |

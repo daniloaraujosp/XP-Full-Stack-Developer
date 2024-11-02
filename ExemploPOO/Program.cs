@@ -1,6 +1,137 @@
-﻿using ExemploPOO.Models;
+﻿using ExemploPOO.Interfaces;
+using ExemploPOO.Models;
+
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3, 9));
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Computador c = new Computador();
+
+Console.WriteLine(c.ToString());
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Pessoa p1 = new Pessoa("Danilo");
+Aluno a1 = new Aluno("Eduardo");
+a1.Apresentar();
+
+Professor prof = new Professor("Leonardo");
+prof.Apresentar();
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Corrente c = new Corrente();
+c.Creditar(500);
+c.ExibirSaldo();
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 Aluno a1 = new Aluno();
 a1.Nome = "Danilo";
 a1.Idade = 40;
@@ -17,7 +148,7 @@ p1.Salario = 3000;
 
 p1.Apresentar();
 
-
+*/
 
 
 

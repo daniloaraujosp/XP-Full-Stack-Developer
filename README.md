@@ -23,7 +23,7 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | Sintaxe Básica com .NET C# | ✔️ | [Sistema para um Estacionamento com C#](https://github.com/daniloaraujosp/trilha-net-fundamentos-desafio) |
 | Dados e Listas com .NET C# | ✔️ | [Sistena de Hospedagem](https://github.com/daniloaraujosp/trilha-net-explorando-desafio) |
 | Programação Orientada a Objetos com C# | ✔️ | [Desafio Programação Orientada a Objetos](https://github.com/daniloaraujosp/trilha-net-poo-desafio) |
-| Introdução a Banco de Dados | ✔️ | |
+| Introdução a Banco de Dados | ✔️ | [Desafi Montando Consultas Relacionais no SQL Server](https://github.com/daniloaraujosp/trilha-net-banco-de-dados-desafio) |
 | Construindo APIs com .NET C# | 🚀 | |
 | Trabalhando com Desenvolvimento Orientado a Testes | ❕ | |
 | Introdução a Front-End com React | ❕ | |

@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\bin\Debug\net9.0\Calculadora.exe
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\bin\Debug\net9.0\Calculadora.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\ModuloTestesDIO\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll

@@ -25,7 +25,7 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | Programação Orientada a Objetos com C# | ✔️ | [Desafio Programação Orientada a Objetos](https://github.com/daniloaraujosp/trilha-net-poo-desafio) |
 | Introdução a Banco de Dados | ✔️ | [Desafi Montando Consultas Relacionais no SQL Server](https://github.com/daniloaraujosp/trilha-net-banco-de-dados-desafio) |
 | Construindo APIs com .NET C# | ✔️ | [Construindo um Sistema de Agendamento de Tarefas com Entity Framework](https://github.com/daniloaraujosp/trilha-net-api-desafio) |
-| Trabalhando com Desenvolvimento Orientado a Testes | 🚀 | |
+| Trabalhando com Desenvolvimento Orientado a Testes | 🚀 | [Implementando Validações de Testes Unitários com C#](https://github.com/daniloaraujosp/trilha-net-testes-unitarios-desafio) |
 | Introdução a Front-End com React | ❕ | |
 | Conceitos Básicos de React | ❕ | |
 | Gerenciando Componentes React | ❕ | |

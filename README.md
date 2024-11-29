@@ -27,7 +27,7 @@ Formação Desenvolvedor Full Stack para criação de aplicações web de ponta 
 | Construindo APIs com .NET C# | ✔️ | [Construindo um Sistema de Agendamento de Tarefas com Entity Framework](https://github.com/daniloaraujosp/trilha-net-api-desafio) |
 | Trabalhando com Desenvolvimento Orientado a Testes | 🚀 | [Implementando Validações de Testes Unitários com C#](https://github.com/daniloaraujosp/trilha-net-testes-unitarios-desafio)\
 ||| [TDD e Testes Unitários Usando .NET Core](https://github.com/daniloaraujosp/tdd-testes-unitarios)|
-| Introdução a Front-End com React | ❕ | |
+| Introdução a Front-End com React | 🚀 | |
 | Conceitos Básicos de React | ❕ | |
 | Gerenciando Componentes React | ❕ | |
 | Criando Front-End com Next e TypeScript | ❕ | |

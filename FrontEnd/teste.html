@@ -39,8 +39,8 @@
     </head>
     <body>
         <hr>
-        <h2>Flexbox</h2>
-        <div class="flex">
+        <h2 id="title">Flexbox</h2>
+        <div class="flex" id="lista">
             <div class="item">a</div>
             <div class="item">b</div>
             <div class="item">b</div>
@@ -48,7 +48,8 @@
             <div class="item">c</div>
         </div>
         <div>
-            <input type="text">
+            <input type="text" name="email">
+            <button onclick="window.document.getElementById('title').remove()">Remover</button>
         </div>
 
         
